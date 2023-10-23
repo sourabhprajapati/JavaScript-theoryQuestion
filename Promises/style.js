@@ -422,4 +422,4 @@
 //     likeThevideo("JavaScript Interview Question"),
 //     shareTheVideo("JavaScript Interview Question")
 
-// ]);
+// ])
